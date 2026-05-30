@@ -4,3 +4,7 @@ Collaborated on a redesign of this ETF portfolio diversification platform - util
 ## Why am I doing this 
 We have been getting comments on Reddit after the first round of user feedback that the design looks very AI-coded, and we want to change that. 
 We want to make it more human-centric, user-friendly, and modern, with intuitive interactive designs.
+
+## Demo Links 
+You can view the redesign here: https://macyso12.github.io/etf-xray-designs/
+And the actual demo here: https://etf-xray.net/
